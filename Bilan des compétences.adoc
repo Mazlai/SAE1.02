@@ -1,0 +1,92 @@
+## Bilan des compétences - SAE S1.01 - Implémentation d’un besoin client
+
+=== Bilan technique :
+
+==== Contexte et objectifs :
+
+- _Objectif principal_ : Étudier la complexité algorithmique.
+- Implémenter des algorithmes de recherche, sur demande d’un client.
+- Réaliser un compte-rendu intégrant des traces d’exécution des
+algorithmes ainsi qu’un glossaire en anglais des termes en relation avec
+la complexité.
+- Savoir s’exprimer sur le code réalisé à l’oral.
+
+==== Problèmes rencontrés et solutions adoptées :
+
+- Déceler la contrainte du client | Consulter les documents joints, en
+référence au sujet.
+- Organiser la répartition des tâches | Assigner les tâches selon les facilités
+de chacun.
+- Concevoir les différents algorithmes | Se consacrer aux cours de Dev2
+(abrégée pour “Structure de Données”).
+- Réaliser un glossaire de mots en anglais | Se référer aux cours d’anglais.
+- Expliquer et commenter son code | Réutiliser les méthodes employées en
+Dev2 ainsi qu’en communication.
+
+==== Objectifs et résultats :
+
+- ✓ Implémenter les algorithmes grâce à une compréhension de la
+demande du client.
+- ✓ Composer un compte-rendu imposé.
+- ✓ Commenter le code réalisé.
+
+=== Bilan du travail d’équipe :
+
+==== Relations et fonctionnement de l’équipe :
+
+- _Accord au sein de l’équipe_ : Communiquer, être confiant et exemplaire.
+- Utilisation de Discord pour la communication au sein du groupe.
+- Utilisation de Google Docs, à la fois pour un “brainstorming”, mais
+également pour la rédaction du compte-rendu.
+- Utilisation de BlueJ pour implémenter les algorithmes en Java, selon la
+volonté et la facilité de chacun.
+
+==== Planification prévisionnelle / réelle des tâches :
+
+- _Temps prévisionnel : 12 heures | Temps réel : 11 heures._
+
+==== Répartition du travail :
+
+- Comprendre le besoin du client | 2 membres.
+- Implémenter l’algorithme de tri simple | 1 membre.
+- Implémenter les algorithmes de recherche séparément | 1 membre pour
+chacun.
+- Réaliser les commentaires du code | 2 membres.
+- Rédiger le compte-rendu ainsi que le glossaire | 1 membre pour chacun.
+
+=== Bilan de compétences personnelles :
+
+==== Place occupée / tâches prises en charge :
+
+- Implémentation de l’ensemble des algorithmes de recherche, à
+l’exception de l’algorithme de recherche par dichotomie.
+- Rédaction complète du compte-rendu à l’exception du glossaire.
+- Rédaction en partie des commentaires du code.
+
+==== Rapport entre les ressources et compétences :
+
+- Interpréter le besoin du client : R1.08-ProjOrg | R1.01-Dev2.
+- Savoir organiser les tâches des membres du projet : R1.08-ProjOrg.
+- Développer les différents algorithmes : R1.01-Dev2.
+- Étudier la complexité d’un algorithme : R1.07-Maths.
+- Commenter le code des programmes / Rédiger le compte-rendu : R1.01
+Dev1 | R1.02-DevWeb.
+- Constituer un glossaire en rapport avec la complexité : R1.10-English.
+- Savoir s’exprimer à l’oral : R1.11-Com | R1.12-PPP.
+
+==== Réussites et difficultés rencontrées :
+
+===== Réussites :
+
+- Compréhension suffisante du besoin du client.
+- Communication et efficacité au sein du groupe très convenable.
+- Amélioration en termes d’aisance à l’oral, mais également en
+développement (codage), jusqu’ici assez fragile et timide.
+
+===== Difficultés :
+
+- Volonté de résoudre les problèmes par soi-même, et non en groupe
+(individualisme).
+- Répartition des tâches, contraint de faire selon la facilité et volonté de
+l’autre.
+- Difficulté d’avoir une vision plus large sur des questions ouvertes.
