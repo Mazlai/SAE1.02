@@ -6,7 +6,7 @@ Ceci est le fichier LISEZMOI (README) du projet.
 
 *BUT POURSUIVI* : Étudier la complexité algorithmique 
 
-*VERSION ou DATE* : 30/10/2021 
+*VERSION ou DATE* : 23/01/2021 
 
 *AUTEURS* : Mickaël FERNANDEZ et Esteban BIRET-TOSCANO (4A)
 
