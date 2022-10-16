@@ -10,4 +10,4 @@ Ceci est le fichier LISEZMOI (README) du projet.
 
 *AUTEURS* : Mickaël FERNANDEZ et Esteban BIRET-TOSCANO (4A)
 
-- Tous les fichiers nécessaires à l'implémentation de ce projet sont à retrouver dans le fichier "Projet". 
+- Tous les fichiers nécessaires à l'implémentation de ce projet sont à retrouver dans le dossier "Projet". 
