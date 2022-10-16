@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Etudiant
+comment0.text=\r\n\ SAE\ 1.02\r\n\r\n\ @author\ Groupe\ n\u00B028\r\n
+comment1.params=
+comment1.target=Etudiant()
+comment1.text=Constructeur\ sans\ param\u00E8tres\ levant\ une\ exception
+comment2.params=pfNom\ pfPrenom\ pfNumGroupeTD\ pfNumGroupeTP
+comment2.target=Etudiant(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=Constructeur\ avec\ param\u00E8tres
+numComments=3

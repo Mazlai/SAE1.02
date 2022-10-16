@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TNPEtudiants
+comment0.text=\r\n\ SAE\ 1.02\r\n\r\n\ @author\ Groupe\ n\u00B028\r\n
+comment1.params=
+comment1.target=TNPEtudiants()
+comment1.text=Constructeur\ sans\ param\u00E8tres\ levant\ une\ exception
+comment2.params=pfNbEtuMax
+comment2.target=TNPEtudiants(int)
+comment2.text=Constructeur\ avec\ param\u00E8tres
+numComments=3
