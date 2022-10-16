@@ -1,4 +1,4 @@
-## Bilan des compétences - SAE S1.01 - Implémentation d’un besoin client
+## Bilan des compétences - SAE S1.02 - Comparaison d'approches algorithmiques
 
 === Bilan technique :
 
