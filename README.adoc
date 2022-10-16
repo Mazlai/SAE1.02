@@ -1,0 +1,13 @@
+------------------------------------------------------------------------
+Ceci est le fichier LISEZMOI (README) du projet.
+------------------------------------------------------------------------
+
+*TITRE DU PROJET* : Comparaison d'approches algorithmiques (SAE1.02) 
+
+*BUT POURSUIVI* : Étudier la complexité algorithmique 
+
+*VERSION ou DATE* : 30/10/2021 
+
+*AUTEURS* : Mickaël FERNANDEZ et Esteban BIRET-TOSCANO (4A)
+
+- Tous les fichiers nécessaires à l'implémentation de ce projet sont à retrouver dans le fichier "Projet". 
